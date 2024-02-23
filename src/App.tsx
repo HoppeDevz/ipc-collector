@@ -33,7 +33,9 @@ function App() {
         SE FODEU
       </p>
 
-      <p>
+      <p
+        style={{ color: "green" }}
+      >
         {ip}
       </p>
     </div>
